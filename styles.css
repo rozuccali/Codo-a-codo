@@ -1,17 +1,67 @@
-div {
-    background-color: #48e;
-    padding: 20px;
-    font-family: sans-serif;
-    border-left: 2px solid #999;
-}
-
-h1 {
+*{
     margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: #2A9AE1; /* fondo encabezado */
+    color: white; /* texto del encabezado */
+    padding: 20px;
     text-align: center;
-    color: #fff
 }
 
-p{
-    text-align: justify;
-    color: #eee
+.logo img {
+    width: 100px; 
+    height: auto; /* tamaño de la imagewn */
+}
+
+.navbar {
+    margin-top: 20px;
+}
+
+.navbar nav a {
+    text-decoration: none; 
+}
+
+.navbar .btn {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    margin: 0 10px;
+    color: white;
+
+}
+
+.navbar .btn:hover {
+    background-color: rgba(255, 246, 255, 0.8) ; /* Color de fondo al pasar el mouse */
+    color: black;
+    border-radius: 20%;
+}
+
+/* Estilos del contenido principal */
+main {
+    padding: 20px;
+}
+
+/* Estilos del pie de página */
+footer {
+    background-color: #151935; /* Color de fondo del pie de página */
+    color: white; /* Color del texto del pie de página */
+    text-align: center;
+    padding: 20px;
+}
+
+.bottom-nav {
+    display: flex;
+    justify-content: center;
+}
+
+.bottom-nav a {
+    margin: 0 10px;
+    display: inline-block;
+}
+
+.bottom-nav img {
+    width: 30px; /* Tamaño de las imágenes */
+    height: auto; /* Mantener la proporción */
 }
