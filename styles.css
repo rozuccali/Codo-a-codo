@@ -91,14 +91,14 @@ footer {
   
   .card p {
     margin-top: 10px;
-    position: absolute; /* Posicionamos la descripción de forma absoluta */
-    bottom: 0; /* La colocamos al fondo */
+    position: absolute; 
+    bottom: 0; 
     left: 0;
-    width: 100%; /* Ocupa todo el ancho */
-    background-color: white; /* Fondo blanco para la descripción */
-    padding: 10px; /* Agregamos un poco de espacio alrededor del texto */
-    opacity: 0; /* Inicialmente oculta */
-    transition: opacity 0.3s ease; /* Transición suave al hacer hover */
+    width: 100%; 
+    background-color: white; 
+    padding: 10px; 
+    opacity: 0; 
+    transition: opacity 0.3s ease; 
   }
   
   .card:hover p {
