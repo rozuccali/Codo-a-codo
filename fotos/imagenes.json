@@ -1,0 +1,225 @@
+{"capuchones": [
+    {
+      "url": "fotos/capuchones/capuchon1.jpeg",
+      "descripcion": "Descripción de la imagen 1"
+    },
+    {
+      "url": "fotos/capuchones/capuchon2.jpeg",
+      "descripcion": "Descripción de la imagen 2"
+    },
+    {
+        "url": "fotos/capuchones/capuchon3.jpeg",
+        "descripcion": "Descripción de la imagen 3"
+    },
+    {
+        "url": "fotos/capuchones/capuchon4.jpeg",
+        "descripcion": "Descripción de la imagen 4"
+    }
+  
+],
+"cuadros": [
+    {
+      "url": "fotos/cuadros/cuadro1.jpg",
+      "descripcion": "Descripción de la imagen 1"
+    },
+    {
+        "url": "fotos/cuadros/cuadro2.jpg",
+        "descripcion": "Descripción de la imagen 2"
+    },
+    {
+        "url": "fotos/cuadros/cuadro3.jpg",
+        "descripcion": "Descripción de la imagen 3"
+    },
+    {
+        "url": "fotos/cuadros/cuadro4.jpg",
+        "descripcion": "Descripción de la imagen 4"
+    },
+
+    {
+        "url": "fotos/cuadros/cuadro5.jpg",
+        "descripcion": "Descripción de la imagen 5"
+    },
+    {
+        "url": "fotos/cuadros/cuadro6.jpg",
+        "descripcion": "Descripción de la imagen 6"
+    },
+    {
+        "url": "fotos/cuadros/cuadro7.jpg",
+        "descripcion": "Descripción de la imagen 7"
+    },
+    {
+        "url": "fotos/cuadros/cuadro8.jpg",
+        "descripcion": "Descripción de la imagen 8"
+    },
+    {
+        "url": "fotos/cuadros/cuadro9.jpg",
+        "descripcion": "Descripción de la imagen 9"
+    },
+    {
+        "url": "fotos/cuadros/cuadro10.jpg",
+        "descripcion": "Descripción de la imagen 10"
+    },
+    {
+        "url": "fotos/cuadros/cuadro11.jpg",
+        "descripcion": "Descripción de la imagen 11"
+    },
+    {
+        "url": "fotos/cuadros/cuadro12.jpg",
+        "descripcion": "Descripción de la imagen 12"
+    },
+    {
+        "url": "fotos/cuadros/cuadro13.jpg",
+        "descripcion": "Descripción de la imagen 13"
+    },
+    {
+        "url": "fotos/cuadros/cuadro14.jpg",
+        "descripcion": "Descripción de la imagen 14"
+    }                
+],
+"huevos": [
+    {
+      "url": "fotos/huevos/huevo1.jpeg",
+      "descripcion": "Descripción de la imagen 1"
+    },
+    {
+        "url": "fotos/huevos/huevo2.jpeg",
+        "descripcion": "Descripción de la imagen 2"
+    },
+    {
+        "url": "fotos/huevos/huevo3.jpeg",
+        "descripcion": "Descripción de la imagen 3"
+    },
+    {
+        "url": "fotos/huevos/huevo4.jpeg",
+        "descripcion": "Descripción de la imagen 4"
+    },
+    {
+        "url": "fotos/huevos/huevo5.jpeg",
+        "descripcion": "Descripción de la imagen 5"
+    },
+    {
+        "url": "fotos/huevos/huevo6.jpeg",
+        "descripcion": "Descripción de la imagen 6"
+    },
+    {
+        "url": "fotos/huevos/huevo7.jpeg",
+        "descripcion": "Descripción de la imagen 7"
+    },
+    {
+        "url": "fotos/huevos/huevo8.jpeg",
+        "descripcion": "Descripción de la imagen 8"
+    },
+    {
+        "url": "fotos/huevos/huevo9.jpeg",
+        "descripcion": "Descripción de la imagen 9"
+    }
+],
+"imanes": [
+    {
+      "url": "fotos/imanes/iman1.jpg",
+      "descripcion": "Descripción de la imagen 1"
+    },
+    {
+        "url": "fotos/imanes/iman2.jpg",
+        "descripcion": "Descripción de la imagen 2"
+    },
+    {
+        "url": "fotos/imanes/iman3.jpg",
+        "descripcion": "Descripción de la imagen 3"
+    },
+    {
+        "url": "fotos/imanes/iman4.jpg",
+        "descripcion": "Descripción de la imagen 4"
+    },
+    {
+        "url": "fotos/imanes/iman5.jpg",
+        "descripcion": "Descripción de la imagen 5"
+    },
+    {
+        "url": "fotos/imanes/iman6.jpg",
+        "descripcion": "Descripción de la imagen 6"
+    },
+    {
+        "url": "fotos/imanes/iman7.jpg",
+        "descripcion": "Descripción de la imagen 7"
+    },
+    {
+        "url": "fotos/imanes/iman8.jpg",
+        "descripcion": "Descripción de la imagen 8"
+    },
+    {
+        "url": "fotos/imanes/iman9.jpg",
+        "descripcion": "Descripción de la imagen 9"
+    },
+    {
+        "url": "fotos/imanes/iman10.jpg",
+        "descripcion": "Descripción de la imagen 10"
+    },
+    {
+        "url": "fotos/imanes/iman11.jpg",
+        "descripcion": "Descripción de la imagen 11"
+    }
+  
+],
+"llaveros": [
+    {
+      "url": "fotos/llaveros/llavero1.jpg",
+      "descripcion": "Descripción de la imagen 1"
+    },
+    {
+        "url": "fotos/llaveros/llavero2.jpg",
+        "descripcion": "Descripción de la imagen 2"
+    },
+    {
+        "url": "fotos/llaveros/llavero3.jpg",
+        "descripcion": "Descripción de la imagen 3"
+    },
+    {
+        "url": "fotos/llaveros/llavero4.jpg",
+        "descripcion": "Descripción de la imagen 4"
+    },
+    {
+        "url": "fotos/llaveros/llavero5.jpg",
+        "descripcion": "Descripción de la imagen 5"
+    },
+    {
+        "url": "fotos/llaveros/llavero6.jpg",
+        "descripcion": "Descripción de la imagen 6"
+    }
+],
+"navidad": [
+    {
+      "url": "fotos/navidad/navidad1.jpg",
+      "descripcion": "Descripción de la imagen 1"
+    },
+    {
+        "url": "fotos/navidad/navidad2.jpg",
+        "descripcion": "Descripción de la imagen 2"
+    },
+    {
+        "url": "fotos/navidad/navidad3.jpg",
+        "descripcion": "Descripción de la imagen 3"
+    },
+    {
+        "url": "fotos/navidad/navidad4.jpg",
+        "descripcion": "Descripción de la imagen 4"
+    },
+    {
+        "url": "fotos/navidad/navidad5.jpg",
+        "descripcion": "Descripción de la imagen 5"
+    },
+    {
+        "url": "fotos/navidad/navidad6.jpg",
+        "descripcion": "Descripción de la imagen 6"
+    },
+    {
+        "url": "fotos/navidad/navidad7.jpg",
+        "descripcion": "Descripción de la imagen 7"
+    },
+    {
+        "url": "fotos/navidad/navidad8.jpg",
+        "descripcion": "Descripción de la imagen 8"
+    }
+
+]
+}
